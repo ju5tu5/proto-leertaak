@@ -1,3 +1,6 @@
 [submodule "proto-deeltaak-een"]
 	path = proto-deeltaak-een
 	url = https://github.com/fdnd-task/proto-deeltaak-een.git
+[submodule "proto-deeltaak-twee"]
+	path = proto-deeltaak-twee
+	url = https://github.com/fdnd-task/proto-deeltaak-twee.git
